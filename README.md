@@ -5,13 +5,6 @@
 <h1 align="center">Hey there 👋 I'm Vaishnavii S</h1>
 <p align="center">
   💻 Azure Data Engineer | 💖 Data QA Ninja | 🧠 Gen AI Explorer<br>
-  Python • PySpark • SQL • Azure • Synapse • Databricks • Snowflake • Gen AI • AI • ML
-</p>
-
-
-<h1 align="center">Hey there 👋 I'm Vaishnavii S</h1>
-<p align="center">
-  💻 Azure Data Engineer | 💖 Data QA Ninja | 🧠 Gen AI Explorer<br>
   Python • PySpark • SQL • Azure • Databricks • Snowflake • AI & ML
 </p>
 
