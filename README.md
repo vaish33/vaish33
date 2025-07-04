@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vaish33/vaish33/main/Vaish%204.jpg" width="200" style="border-radius: 50%" alt="Vaishnavii S" />
+</p>
+
+
 <h1 align="center">Hey there 👋 I'm Vaishnavii S</h1>
 <p align="center">
   💻 Azure Data Engineer | 💖 Data QA Ninja | 🧠 Gen AI Explorer<br>
