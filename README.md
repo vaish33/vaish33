@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vaish33/vaish33/main/your-banner-image.png" alt="Vaishnavii Contact Banner" />
-</p>
-
-
 <h1 align="center">Hey there 👋 I'm Vaishnavii S</h1>
 <p align="center">
   💻 Azure Data Engineer | 💖 Data QA Ninja | 🧠 Gen AI Explorer<br>
