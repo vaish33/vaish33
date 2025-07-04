@@ -22,17 +22,27 @@
 
 ### 💼 Tech Stack I Love
 
+#### 🧠 Data Engineering
 <p>
   <img src="https://img.shields.io/badge/Azure-blue?logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/PySpark-orange?logo=apachespark" />
   <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/Snowflake-00C1D4?logo=snowflake" />
-  <img src="https://img.shields.io/badge/Gen%20AI-ff69b4?logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Databricks-red?logo=databricks&logoColor=white" />
 </p>
 
----
+#### 🤖 Data Science, Gen AI & ML
+<p>
+  <img src="https://img.shields.io/badge/Gen%20AI-ff69b4?logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-007ACC?logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-black?logo=OpenAI&logoColor=white" />
+</p>
 
 ---
 
@@ -56,6 +66,18 @@ Top 75 on the [Leaderboard](https://www.kaggle.com/competitions/bengaliai-speech
 ![Azure Databricks Architect](https://img.shields.io/badge/Azure%20Databricks%20Platform%20Architect-gray?logo=databricks&logoColor=white)
 
 ---
+
+### 🏅 Key Achievements
+
+- 🥉 **Bronze Winner** – Bengali AI Speech Recognition | Kaggle Hackathon  
+- 💡 **Top Innovation** – FinChat | Agilisium Technovate Hackathon  
+- 🏆 **Synergy Award** – Genentech Project  
+- 🔍 **Solutions Award** – Data Observability  
+- 🌟 **Ideate, Inspire, Ignite Award**  
+- 🚀 **Go Getter Award** – Data Assurance
+
+---
+
 
 
 ### 📫 How to reach me
