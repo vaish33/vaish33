@@ -4,7 +4,7 @@
 
 <h1 align="center">Hey there 👋 I'm Vaishnavii S</h1>
 <p align="center">
-  💻 Azure Data Engineer | 💖 Data QA Ninja | 🧠 Gen AI Explorer<br>
+  💻 Azure Data Engineer | 💖 Data QA Ninja | 🧠 Gen AI Developer<br>
   Python • PySpark • SQL • Azure • Databricks • Snowflake • AI & ML
 </p>
 
