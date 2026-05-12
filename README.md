@@ -62,6 +62,7 @@ Top 75 on the [Leaderboard](https://www.kaggle.com/competitions/bengaliai-speech
 ![DP-700](https://img.shields.io/badge/Fabric%20Data%20Engineer-DP--700-blue?logo=microsoft&logoColor=white)  
 ![DP-600](https://img.shields.io/badge/Fabric%20Analytics%20Engineer-DP--600-blueviolet?logo=microsoft&logoColor=white)  
 ![DP-420](https://img.shields.io/badge/Azure%20Cosmos%20DB%20Developer%20Specialty-DP--420-blue?logo=azurecosmosdb&logoColor=white)  
+![Databricks Certified Data Engineer Professional](https://img.shields.io/badge/Databricks%20Certified%20Data%20Engineer%20Professional-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks%20Certified%20Data%20Engineer%20Associate-red?logo=databricks&logoColor=white)  
 ![Azure Databricks Architect](https://img.shields.io/badge/Azure%20Databricks%20Platform%20Architect-gray?logo=databricks&logoColor=white)
 
