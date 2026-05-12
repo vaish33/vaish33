@@ -58,13 +58,19 @@ Top 75 on the [Leaderboard](https://www.kaggle.com/competitions/bengaliai-speech
 
 🎓 **My Certifications**
 
-![AI-102](https://img.shields.io/badge/Azure%20AI%20Engineer%20Associate-AI--102-blue?logo=microsoftazure&logoColor=white)  
-![DP-700](https://img.shields.io/badge/Fabric%20Data%20Engineer-DP--700-blue?logo=microsoft&logoColor=white)  
-![DP-600](https://img.shields.io/badge/Fabric%20Analytics%20Engineer-DP--600-blueviolet?logo=microsoft&logoColor=white)  
-![DP-420](https://img.shields.io/badge/Azure%20Cosmos%20DB%20Developer%20Specialty-DP--420-blue?logo=azurecosmosdb&logoColor=white)  
-![Databricks Certified Data Engineer Professional](https://img.shields.io/badge/Databricks%20Certified%20Data%20Engineer%20Professional-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks%20Certified%20Data%20Engineer%20Associate-red?logo=databricks&logoColor=white)  
-![Azure Databricks Architect](https://img.shields.io/badge/Azure%20Databricks%20Platform%20Architect-gray?logo=databricks&logoColor=white)
+![Azure AI Engineer Associate - AI-102](https://img.shields.io/badge/Azure%20AI%20Engineer%20Associate-AI--102-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+![Fabric Data Engineer Associate - DP-700](https://img.shields.io/badge/Fabric%20Data%20Engineer%20Associate-DP--700-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+![Fabric Analytics Engineer Associate - DP-600](https://img.shields.io/badge/Fabric%20Analytics%20Engineer%20Associate-DP--600-8661C5?style=for-the-badge&logo=microsoft&logoColor=white)
+
+![Azure Cosmos DB Developer Specialty - DP-420](https://img.shields.io/badge/Azure%20Cosmos%20DB%20Developer%20Specialty-DP--420-0078D4?style=for-the-badge&logo=azurecosmosdb&logoColor=white)
+
+![Databricks Certified Data Engineer Professional](https://img.shields.io/badge/Databricks%20Certified%20Data%20Engineer%20Professional-B71C1C?style=for-the-badge&logo=databricks&logoColor=white)
+
+![Databricks Certified Data Engineer Associate](https://img.shields.io/badge/Databricks%20Certified%20Data%20Engineer%20Associate-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
+
+![Azure Databricks Platform Architect](https://img.shields.io/badge/Azure%20Databricks%20Platform%20Architect-4A4A4A?style=for-the-badge&logo=databricks&logoColor=white)
 
 ---
 
