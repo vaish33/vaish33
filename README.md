@@ -15,7 +15,7 @@
 - ⚙️ Automating validations, debugging data mismatches  
 - 🎯 Active Gen AI Hackathon Participant  
 - 🧠 Obsessed with turning raw data into golden insights
-- 🎓 4× Microsoft Certified | 2× Databricks Certified  
+- 🎓 4× Microsoft Certified | 3× Databricks Certified  
 - 💡 Currently building: **Gen AI Project for Data Engineering** 
 
 ---
